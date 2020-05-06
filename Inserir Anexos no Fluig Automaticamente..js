@@ -23,7 +23,7 @@ function AnexarArquivoGED(pasta, nomeArquivo, arquivoBase64) {
 		var FLUIG_PASTA_PADRAO = 0;
 		if (pasta == 'PADRAO') {
 			//Criar uma pasta no Fluig onde irá salvar os anexos.
-			var FLUIG_PASTA_PADRAO = 6087;
+				var FLUIG_PASTA_PADRAO = 10;
 		} 
 
 		var periodicService = ServiceManager
